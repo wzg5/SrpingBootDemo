@@ -12,6 +12,6 @@ public class SrpingBootDemoApplication {
 		System.out.println("3333333");
 		System.out.println("abcdefg");
 		SpringApplication.run(SrpingBootDemoApplication.class, args);
-		
+
 	}
 }
