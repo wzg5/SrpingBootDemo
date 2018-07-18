@@ -7,6 +7,7 @@ package com.example.demo;
 public class BranchDev {
     private String id;
     private String name;
+    private String desc;
 
     public BranchDev(String id, String name) {
         this.id = id;
